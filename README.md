@@ -52,15 +52,18 @@ git clone https://github.com/This-is-sid/CodeClauseInternship_Basic_Speech_Recog
 cd CodeClauseInternship_Basic_Speech_Recognition
 ```
 2. **Install dependencies**
+```bash
    pip install --upgrade pip
    pip install -r requirements.txt
-
-3. Run the assistant
+```
+3. **Run the assistant**
+```bash
    python voice_assistant.py
+```
+---
 
------
+#**Example Usage:**
 
-#Example Usage:
 You: Jarvis  
 Assistant: Yes, I'm listening...
 
